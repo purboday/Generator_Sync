@@ -1,6 +1,5 @@
 # Generator_Sync
-Synchronization Control System for Synchronous Generators
-This project demonstrates a an automatic synchronization control system for generators in micogrid that will maintain equal line voltage, frequency (and phase).
+Synchronization Control System for Synchronous Generators. This project demonstrates an automatic synchronization control system for generators in micogrid that will maintain equal line voltage, frequency (and phase).
 
 ## Synchronization parameters
 - Line voltage
